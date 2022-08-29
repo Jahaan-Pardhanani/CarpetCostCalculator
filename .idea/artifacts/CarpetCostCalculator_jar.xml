@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CarpetCostCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CarpetCostCalculator_jar</output-path>
+    <root id="archive" name="CarpetCostCalculator.jar">
+      <element id="module-output" name="CarpetCostCalculator" />
+    </root>
+  </artifact>
+</component>
